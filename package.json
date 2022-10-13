@@ -1,0 +1,28 @@
+{
+  "displayName": "Orkat moon",
+  "description": "coloring the coder's engine",
+  "publisher": "liquidloopcodes",
+  "version": "0.0.1",
+  "auther":{
+    "name": "liquidloopcodes",
+    "email": "amalprasad354@gmail.com",
+    "url": "https://liquid-loop.github.io"
+  
+  },
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "icon": "./icons/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orkat Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orkat Moon-color-theme.json"
+      }
+    ]
+  }
+}
