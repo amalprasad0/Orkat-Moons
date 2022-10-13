@@ -1,6 +1,8 @@
-# liquidloopcodes README
+# Orkat Moon Theme README
 
-## Working with Markdown
+## Gearing up the coders!
+
+<img src="https://github.com/amalprasad0/Orkat-Moons/blob/main/Orkat%20Moon.png"/>
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
